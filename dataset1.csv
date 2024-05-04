@@ -1,0 +1,514 @@
+Incident_ID, Date, Time, Location, Description, Type_of_Crime, Victim, Perpetrator
+1, 2024-05-04, 14:30, New York, Phishing attack on XYZ company's employees, Fraud, XYZ Company, Unknown
+2, 2024-05-03, 09:00, London, Ransomware attack on ABC organization's servers, Extortion, ABC Organization, Hacker Group A
+3, 2024-05-02, 12:45, Tokyo, Identity theft reported by individual, Identity Theft, John Doe, Unknown
+4, 2024-05-01, 16:20, Berlin, Distributed Denial of Service (DDoS) attack on government website, Sabotage, Government Agency, Hacktivist Group B
+5, 2024-04-30, 10:10, Paris, Data breach at financial institution, Data Breach, Financial Institution, Insider Employee
+6, 2024-04-29, 11:11, Sydney, Social engineering attack on healthcare provider, Fraud, Healthcare Provider, Scammer Group C
+7, 2024-04-28, 08:45, Moscow, Malware infection on university's network, Cyber Espionage, University, State-Sponsored Group D
+8, 2024-04-27, 15:55, Beijing, Insider trading discovered at investment firm, Financial Fraud, Investment Firm, Insider Employee
+9, 2024-04-26, 13:20, Mumbai, Online harassment case reported by individual, Harassment, Individual, Cyberbully
+10, 2024-04-25, 17:30, Sao Paulo, Credit card fraud reported by bank customers, Financial Fraud, Bank, Identity Theft Ring
+11, 2024-04-24, 14:20, Los Angeles, Phishing scam targeting social media users, Fraud, Social Media Users, Cybercriminal Group A
+12, 2024-04-23, 09:45, Toronto, Email account compromise at a law firm, Identity Theft, Law Firm, Unknown
+13, 2024-04-22, 11:55, Chicago, Cyberbullying incident reported by high school student, Harassment, High School Student, Online Bully
+14, 2024-04-21, 16:10, Sydney, Unauthorized access to government database, Unauthorized Access, Government Agency, Insider Employee
+15, 2024-04-20, 12:30, Paris, Cryptojacking attack on a cryptocurrency exchange, Theft of Computing Resources, Cryptocurrency Exchange, Hacker Group B
+16, 2024-04-19, 10:05, London, Phishing email targeting banking customers, Fraud, Banking Customers, Phishing Gang
+17, 2024-04-18, 15:15, Tokyo, Healthcare data breach affecting patients' records, Data Breach, Hospital, Insider Employee
+18, 2024-04-17, 09:25, New York, DDoS attack on a popular gaming platform, Sabotage, Gaming Company, Hacker Group C
+19, 2024-04-16, 13:40, Mumbai, Identity theft via fraudulent credit card application, Identity Theft, Individual, Fraudster
+20, 2024-04-15, 17:50, Beijing, Insider trading scheme uncovered at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+21, 2024-04-14, 14:15, Berlin, Social media account hijacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group D
+22, 2024-04-13, 10:30, Sao Paulo, Cyber extortion targeting small businesses, Extortion, Small Business Owners, Ransomware Gang
+23, 2024-04-12, 11:20, Moscow, Phishing attack on a government agency's employees, Fraud, Government Agency, Hacker Group E
+24, 2024-04-11, 16:35, Los Angeles, Online harassment and stalking reported by a celebrity, Harassment, Celebrity, Stalker
+25, 2024-04-10, 09:55, Toronto, Unauthorized access to financial institution's customer data, Unauthorized Access, Financial Institution, Insider Employee
+26, 2024-04-09, 12:05, Chicago, Email spoofing attack targeting a university's faculty, Fraud, University, Phishing Gang
+27, 2024-04-08, 15:25, Sydney, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+28, 2024-04-07, 09:45, Paris, Ransomware attack on a city's public transportation system, Extortion, City Administration, Hacker Group F
+29, 2024-04-06, 13:55, London, Social media harassment and doxxing incident reported, Harassment, Individual, Cyberbully
+30, 2024-04-05, 10:10, Tokyo, Cyber espionage targeting defense contractors, Cyber Espionage, Defense Contractors, State-Sponsored Group G
+31, 2024-04-04, 14:30, New York, Data breach at a technology company, Data Breach, Technology Company, Insider Employee
+32, 2024-04-03, 09:00, Beijing, Phishing scam targeting online shoppers, Fraud, Online Shoppers, Phishing Gang
+33, 2024-04-02, 12:45, Mumbai, Identity theft via fake job offer scam, Identity Theft, Job Seekers, Scammer Group H
+34, 2024-04-01, 16:20, Sao Paulo, Distributed denial-of-service (DDoS) attack on a political party's website, Sabotage, Political Party, Hacktivist Group I
+35, 2024-03-31, 10:30, Moscow, Unauthorized access to confidential legal documents, Unauthorized Access, Law Firm, Insider Employee
+36, 2024-03-30, 08:40, Berlin, CEO email spoofing incident targeting a corporation, Fraud, Corporation, Business Email Compromise Group A
+37, 2024-03-29, 11:15, Los Angeles, Cyberstalking and harassment case reported by a journalist, Harassment, Journalist, Online Stalker
+38, 2024-03-28, 14:45, Toronto, Insider trading scandal at a brokerage firm, Financial Fraud, Brokerage Firm, Insider Employee
+39, 2024-03-27, 09:35, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group J
+40, 2024-03-26, 13:50, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+41, 2024-03-25, 17:55, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+42, 2024-03-24, 10:25, Tokyo, Social media account hacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group K
+43, 2024-03-23, 12:35, New York, Unauthorized access to financial institution's servers, Unauthorized Access, Financial Institution, Insider Employee
+44, 2024-03-22, 16:45, Beijing, Phishing email scam targeting senior citizens, Fraud, Senior Citizens, Phishing Gang
+45, 2024-03-21, 08:50, Mumbai, Insider trading investigation at an investment bank, Financial Fraud, Investment Bank, Insider Employee
+46, 2024-03-20, 11:10, Sao Paulo, Data breach at a telecommunications company, Data Breach, Telecommunications Company, Insider Employee
+47, 2024-03-19, 14:20, Moscow, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group B
+48, 2024-03-18, 09:40, Berlin, Phishing attack on a charity organization's donors, Fraud, Donors, Phishing Gang
+49, 2024-03-17, 13:15, Los Angeles, Online harassment and cyberbullying incident reported, Harassment, Individual, Cyberbully
+50, 2024-03-16, 15:30, Toronto, Cyber espionage targeting government officials, Cyber Espionage, Government Officials, State-Sponsored Group L
+51, 2024-03-15, 10:20, Sydney, Insider trading probe at a hedge fund, Financial Fraud, Hedge Fund, Insider Employee
+52, 2024-03-14, 12:50, Paris, Phishing attack on a university's students and faculty, Fraud, University, Phishing Gang
+53, 2024-03-13, 14:15, London, Unauthorized access to government agency's confidential documents, Unauthorized Access, Government Agency, Insider Employee
+54, 2024-03-12, 09:25, Tokyo, Cyberstalking incident reported by a public figure, Harassment, Public Figure, Online Stalker
+55, 2024-03-11, 11:40, New York, Ransomware attack on a small business, Extortion, Small Business, Ransomware Gang
+56, 2024-03-10, 16:05, Beijing, Identity theft through compromised social media accounts, Identity Theft, Social Media Users, Cybercriminal Group M
+57, 2024-03-09, 08:35, Mumbai, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+58, 2024-03-08, 10:55, Sao Paulo, Phishing scam targeting online gaming community, Fraud, Online Gamers, Phishing Gang
+59, 2024-03-07, 14:20, Moscow, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+60, 2024-03-06, 09:45, Berlin, Business email compromise (BEC) attack targeting real estate agents, Fraud, Real Estate Agents, Business Email Compromise Group C
+61, 2024-03-05, 11:55, Los Angeles, Cyberbullying incident reported by a teenager, Harassment, Teenager, Cyberbully
+62, 2024-03-04, 15:20, Toronto, Data breach at a healthcare insurance company, Data Breach, Insurance Company, Insider Employee
+63, 2024-03-03, 08:50, Sydney, Phishing attack on a software development company, Fraud, Software Company, Phishing Gang
+64, 2024-03-02, 10:15, Paris, Identity theft via fraudulent tax return filings, Identity Theft, Taxpayers, Fraudster
+65, 2024-03-01, 14:40, London, Cyber espionage targeting aerospace industry, Cyber Espionage, Aerospace Companies, State-Sponsored Group N
+66, 2024-02-29, 09:30, Tokyo, Insider trading probe at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+67, 2024-02-28, 12:55, New York, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group D
+68, 2024-02-27, 16:10, Beijing, Phishing scam targeting cryptocurrency investors, Fraud, Cryptocurrency Investors, Phishing Gang
+69, 2024-02-26, 10:20, Mumbai, Insider trading investigation at a stock brokerage, Financial Fraud, Stock Brokerage, Insider Employee
+70, 2024-02-25, 14:45, Sao Paulo, Ransomware attack on a city's government systems, Extortion, City Administration, Ransomware Gang
+71, 2024-02-24, 08:35, Moscow, Social media account hijacking for spreading malware, Fraud, Social Media Users, Cybercriminal Group O
+72, 2024-02-23, 11:10, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+73, 2024-02-22, 13:30, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+74, 2024-02-21, 16:50, Toronto, Insider trading investigation at an investment bank, Financial Fraud, Investment Bank, Insider Employee
+75, 2024-02-20, 09:40, Sydney, Data breach at a telecommunications company, Data Breach, Telecommunications Company, Insider Employee
+76, 2024-02-19, 12:15, Paris, Cyberstalking and harassment incident reported by a blogger, Harassment, Blogger, Online Stalker
+77, 2024-02-18, 14:40, London, Insider trading probe at a hedge fund, Financial Fraud, Hedge Fund, Insider Employee
+78, 2024-02-17, 08:55, Tokyo, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+79, 2024-02-16, 10:30, New York, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group E
+80, 2024-02-15, 15:05, Beijing, Identity theft through fraudulent credit card applications, Identity Theft, Individuals, Fraudster
+81, 2024-02-14, 09:20, Mumbai, Cyber espionage targeting government agencies, Cyber Espionage, Government Agencies, State-Sponsored Group P
+82, 2024-02-13, 11:45, Sao Paulo, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+83, 2024-02-12, 14:10, Moscow, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+84, 2024-02-11, 08:35, Berlin, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group F
+85, 2024-02-10, 10:50, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group Q
+86, 2024-02-09, 13:25, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+87, 2024-02-08, 16:40, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group R
+88, 2024-02-07, 09:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+89, 2024-02-06, 12:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+90, 2024-02-05, 14:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group S
+91, 2024-02-04, 08:55, New York, Unauthorized access to financial institution's servers, Unauthorized Access, Financial Institution, Insider Employee
+92, 2024-02-03, 11:30, Beijing, Phishing email scam targeting senior citizens, Fraud, Senior Citizens, Phishing Gang
+93, 2024-02-02, 13:55, Mumbai, Insider trading investigation at an investment bank, Financial Fraud, Investment Bank, Insider Employee
+94, 2024-02-01, 17:20, Sao Paulo, Data breach at a telecommunications company, Data Breach, Telecommunications Company, Insider Employee
+95, 2024-01-31, 09:30, Moscow, Business email compromise (BEC) attack targeting real estate agents, Fraud, Real Estate Agents, Business Email Compromise Group G
+96, 2024-01-30, 12:55, Berlin, Phishing scam targeting online gaming community, Fraud, Online Gamers, Phishing Gang
+97, 2024-01-29, 15:20, Los Angeles, Unauthorized access to government agency's confidential documents, Unauthorized Access, Government Agency, Insider Employee
+98, 2024-01-28, 09:45, Toronto, Cyberstalking incident reported by a public figure, Harassment, Public Figure, Online Stalker
+99, 2024-01-27, 11:55, Sydney, Ransomware attack on a small business, Extortion, Small Business, Ransomware Gang
+100, 2024-01-26, 14:40, Paris, Identity theft through compromised social media accounts, Identity Theft, Social Media Users, Cybercriminal Group T
+101, 2024-01-25, 08:50, London, Insider trading probe at a hedge fund, Financial Fraud, Hedge Fund, Insider Employee
+102, 2024-01-24, 10:15, Tokyo, Phishing scam targeting university students, Fraud, University Students, Phishing Gang
+103, 2024-01-23, 14:40, New York, Unauthorized access to financial institution's servers, Unauthorized Access, Financial Institution, Insider Employee
+104, 2024-01-22, 16:50, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group H
+105, 2024-01-21, 09:40, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group U
+106, 2024-01-20, 12:15, Sao Paulo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+107, 2024-01-19, 14:40, Moscow, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group V
+108, 2024-01-18, 08:35, Berlin, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+109, 2024-01-17, 10:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+110, 2024-01-16, 15:05, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group W
+111, 2024-01-15, 09:20, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+112, 2024-01-14, 11:45, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group I
+113, 2024-01-13, 14:10, London, Social media account hijacking for spreading malware, Fraud, Social Media Users, Cybercriminal Group X
+114, 2024-01-12, 08:35, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+115, 2024-01-11, 10:50, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+116, 2024-01-10, 13:25, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+117, 2024-01-09, 16:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+118, 2024-01-08, 09:45, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+119, 2024-01-07, 14:20, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+120, 2024-01-06, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group J
+121, 2024-01-05, 10:30, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group Y
+122, 2024-01-04, 13:55, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+123, 2024-01-03, 16:10, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group Z
+124, 2023-12-31, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+125, 2023-12-30, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+126, 2023-12-29, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group AA
+127, 2023-12-28, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+128, 2023-12-27, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group K
+129, 2023-12-26, 14:50, Mumbai, Social media account hijacking for spreading malware, Fraud, Social Media Users, Cybercriminal Group BB
+130, 2023-12-25, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+131, 2023-12-24, 10:30, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+132, 2023-12-23, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+133, 2023-12-22, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+134, 2023-12-21, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+135, 2023-12-20, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+136, 2023-12-19, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group L
+137, 2023-12-18, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group CC
+138, 2023-12-17, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+139, 2023-12-16, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group DD
+140, 2023-12-15, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+141, 2023-12-14, 11:20, Mumbai, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+142, 2023-12-13, 13:45, Sao Paulo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group EE
+143, 2023-12-12, 08:50, Moscow, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+144, 2023-12-11, 10:25, Berlin, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group M
+145, 2023-12-10, 14:50, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group FF
+146, 2023-12-09, 08:45, Toronto, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+147, 2023-12-08, 10:30, Sydney, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+148, 2023-12-07, 14:55, Paris, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+149, 2023-12-06, 08:40, London, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+150, 2023-12-05, 11:15, Tokyo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+151, 2023-12-04, 13:40, New York, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+152, 2023-12-03, 08:55, Beijing, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group N
+153, 2023-12-02, 10:20, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group GG
+154, 2023-12-01, 12:45, Sao Paulo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+155, 2023-11-30, 14:50, Moscow, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group HH
+156, 2023-11-29, 08:45, Berlin, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+157, 2023-11-28, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+158, 2023-11-27, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group II
+159, 2023-11-26, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+160, 2023-11-25, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group O
+161, 2023-11-24, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group JJ
+162, 2023-11-23, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+163, 2023-11-22, 10:30, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+164, 2023-11-21, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+165, 2023-11-20, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+166, 2023-11-19, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+167, 2023-11-18, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+168, 2023-11-17, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group P
+169, 2023-11-16, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group KK
+170, 2023-11-15, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+171, 2023-11-14, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group LL
+172, 2023-11-13, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+173, 2023-11-12, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+174, 2023-11-11, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group MM
+175, 2023-11-10, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+176, 2023-11-09, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group Q
+177, 2023-11-08, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group NN
+178, 2023-11-07, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+179, 2023-11-06, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+180, 2023-11-05, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+181, 2023-11-04, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+182, 2023-11-03, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+183, 2023-11-02, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+184, 2023-11-01, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group R
+185, 2023-10-31, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group OO
+186, 2023-10-30, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+187, 2023-10-29, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group PP
+188, 2023-10-28, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+189, 2023-10-27, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+190, 2023-10-26, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group QQ
+191, 2023-10-25, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+192, 2023-10-24, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group S
+193, 2023-10-23, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group RR
+194, 2023-10-22, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+195, 2023-10-21, 10:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+196, 2023-10-20, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+197, 2023-10-19, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+198, 2023-10-18, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+199, 2023-10-17, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+200, 2023-10-16, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group T
+201, 2023-10-15, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group SS
+202, 2023-10-14, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+203, 2023-10-13, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group TT
+204, 2023-10-12, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+205, 2023-10-11, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+206, 2023-10-10, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group UU
+207, 2023-10-09, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+208, 2023-10-08, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group U
+209, 2023-10-07, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group VV
+210, 2023-10-06, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+211, 2023-10-05, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+212, 2023-10-04, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+213, 2023-10-03, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+214, 2023-10-02, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+215, 2023-10-01, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+216, 2023-09-30, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group W
+217, 2023-09-29, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group WW
+218, 2023-09-28, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+219, 2023-09-27, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group XX
+220, 2023-09-26, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+221, 2023-09-25, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+222, 2023-09-24, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group YY
+223, 2023-09-23, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+224, 2023-09-22, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group X
+225, 2023-09-21, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group ZZ
+226, 2023-09-20, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+227, 2023-09-19, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+228, 2023-09-18, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+229, 2023-09-17, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+230, 2023-09-16, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+231, 2023-09-15, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+232, 2023-09-14, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group Y
+233, 2023-09-13, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group AAA
+234, 2023-09-12, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+235, 2023-09-11, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group BBB
+236, 2023-09-10, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+237, 2023-09-09, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+238, 2023-09-08, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group CCC
+239, 2023-09-07, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+240, 2023-09-06, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group Z
+241, 2023-09-05, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group DDD
+242, 2023-09-04, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+243, 2023-09-03, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+244, 2023-09-02, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+245, 2023-09-01, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+246, 2023-08-31, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+247, 2023-08-30, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+248, 2023-08-29, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AA
+249, 2023-08-28, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group EEE
+250, 2023-08-27, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+251, 2023-08-26, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group FFF
+252, 2023-08-25, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+253, 2023-08-24, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+254, 2023-08-23, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group GGG
+255, 2023-08-22, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+256, 2023-08-21, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AB
+257, 2023-08-20, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group HHH
+258, 2023-08-19, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+259, 2023-08-18, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+260, 2023-08-17, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+261, 2023-08-16, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+262, 2023-08-15, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+263, 2023-08-14, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+264, 2023-08-13, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AC
+265, 2023-08-12, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group III
+266, 2023-08-11, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+267, 2023-08-10, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group JJJ
+268, 2023-08-09, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+269, 2023-08-08, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+270, 2023-08-07, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group KKK
+271, 2023-08-06, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+272, 2023-08-05, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AD
+273, 2023-08-04, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group LLL
+274, 2023-08-03, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+275, 2023-08-02, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+276, 2023-08-01, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+277, 2023-07-31, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+278, 2023-07-30, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+279, 2023-07-29, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+280, 2023-07-28, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AE
+281, 2023-07-27, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group MMM
+282, 2023-07-26, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+283, 2023-07-25, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group NNN
+284, 2023-07-24, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+285, 2023-07-23, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+286, 2023-07-22, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group OOO
+287, 2023-07-21, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+288, 2023-07-20, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AF
+289, 2023-07-19, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group PPP
+290, 2023-07-18, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+291, 2023-07-17, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+292, 2023-07-16, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+293, 2023-07-15, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+294, 2023-07-14, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+295, 2023-07-13, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+296, 2023-07-12, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AG
+297, 2023-07-11, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group QQQ
+298, 2023-07-10, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+299, 2023-07-09, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group OOO
+300, 2023-07-08, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+301, 2023-07-07, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+302, 2023-07-06, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group RRR
+303, 2023-07-05, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+304, 2023-07-04, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AH
+305, 2023-07-03, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group SSS
+306, 2023-07-02, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+307, 2023-07-01, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+308, 2023-06-30, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+309, 2023-06-29, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+310, 2023-06-28, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+311, 2023-06-27, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+312, 2023-06-26, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AI
+313, 2023-06-25, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group TTT
+314, 2023-06-24, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+315, 2023-06-23, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group PPP
+316, 2023-06-22, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+317, 2023-06-21, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+318, 2023-06-20, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group UUU
+319, 2023-06-19, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+320, 2023-06-18, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AJ
+321, 2023-06-17, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group VVV
+322, 2023-06-16, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+323, 2023-06-15, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+324, 2023-06-14, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+325, 2023-06-13, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+326, 2023-06-12, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+327, 2023-06-11, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+328, 2023-06-10, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AK
+329, 2023-06-09, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group WWW
+330, 2023-06-08, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+331, 2023-06-07, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group QQQ
+332, 2023-06-06, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+333, 2023-06-05, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+334, 2023-06-04, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group XXX
+335, 2023-06-03, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+336, 2023-06-02, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AL
+337, 2023-06-01, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group YYY
+338, 2023-05-31, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+339, 2023-05-30, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+340, 2023-05-29, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+341, 2023-05-28, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+342, 2023-05-27, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+343, 2023-05-26, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+344, 2023-05-25, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AM
+345, 2023-05-24, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group ZZZ
+346, 2023-05-23, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+347, 2023-05-22, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group RRR
+348, 2023-05-21, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+349, 2023-05-20, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+350, 2023-05-19, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group QQQ
+351, 2023-05-18, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+352, 2023-05-17, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AN
+353, 2023-05-16, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group AAA
+354, 2023-05-15, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+355, 2023-05-14, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+356, 2023-05-13, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+357, 2023-05-12, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+358, 2023-05-11, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+359, 2023-05-10, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+360, 2023-05-09, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AO
+361, 2023-05-08, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group BBB
+362, 2023-05-07, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+363, 2023-05-06, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group SSS
+364, 2023-05-05, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+365, 2023-05-04, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+366, 2023-05-03, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group CCC
+367, 2023-05-02, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+368, 2023-05-01, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AP
+369, 2023-04-30, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group DDD
+370, 2023-04-29, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+371, 2023-04-28, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+372, 2023-04-27, 13:40, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+373, 2023-04-26, 08:55, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+374, 2023-04-25, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+375, 2023-04-24, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+376, 2023-04-23, 08:45, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AQ
+377, 2023-04-22, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group CCC
+378, 2023-04-21, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+379, 2023-04-20, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group TTT
+380, 2023-04-19, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+381, 2023-04-18, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+382, 2023-04-17, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group DDD
+383, 2023-04-16, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+384, 2023-04-15, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AR
+385, 2023-04-14, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group EEE
+386, 2023-04-13, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+387, 2023-04-12, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+388, 2023-04-11, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+389, 2023-04-10, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+390, 2023-04-09, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+391, 2023-04-08, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+392, 2023-04-07, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AS
+393, 2023-04-06, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group FFF
+394, 2023-04-05, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+395, 2023-04-04, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group UUU
+396, 2023-04-03, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+397, 2023-04-02, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+398, 2023-04-01, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group GGG
+399, 2023-03-31, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+400, 2023-03-30, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AT
+401, 2023-03-29, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group HHH
+402, 2023-03-28, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+403, 2023-03-27, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+404, 2023-03-26, 13:40, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+405, 2023-03-25, 08:55, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+406, 2023-03-24, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+407, 2023-03-23, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+408, 2023-03-22, 08:45, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AU
+409, 2023-03-21, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group III
+410, 2023-03-20, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+411, 2023-03-19, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group VVV
+412, 2023-03-18, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+413, 2023-03-17, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+414, 2023-03-16, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group JJJ
+415, 2023-03-15, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+416, 2023-03-14, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AV
+417, 2023-03-13, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group KKK
+418, 2023-03-12, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+419, 2023-03-11, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+420, 2023-03-10, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+421, 2023-03-09, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+422, 2023-03-08, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+423, 2023-03-07, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+424, 2023-03-06, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AW
+425, 2023-03-05, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group LLL
+426, 2023-03-04, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+427, 2023-03-03, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group WWW
+428, 2023-03-02, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+429, 2023-03-01, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+430, 2023-02-28, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group MMM
+431, 2023-02-27, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+432, 2023-02-26, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AX
+433, 2023-02-25, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group NNN
+434, 2023-02-24, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+435, 2023-02-23, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+436, 2023-02-22, 13:40, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+437, 2023-02-21, 08:55, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+438, 2023-02-20, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+439, 2023-02-19, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+440, 2023-02-18, 08:45, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group AY
+441, 2023-02-17, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group NNN
+442, 2023-02-16, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+443, 2023-02-15, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group XXX
+444, 2023-02-14, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+445, 2023-02-13, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+446, 2023-02-12, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group OOO
+447, 2023-02-11, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+448, 2023-02-10, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group AZ
+449, 2023-02-09, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group PPP
+450, 2023-02-08, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+451, 2023-02-07, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+452, 2023-02-06, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+453, 2023-02-05, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+454, 2023-02-04, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+455, 2023-02-03, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+456, 2023-02-02, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group BA
+457, 2023-02-01, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group QQQ
+458, 2023-01-31, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+459, 2023-01-30, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group YYY
+460, 2023-01-29, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+461, 2023-01-28, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+462, 2023-01-27, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group RRR
+463, 2023-01-26, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+464, 2023-01-25, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group BA
+465, 2023-01-24, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group WWW
+466, 2023-01-23, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+467, 2023-01-22, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+468, 2023-01-21, 14:55, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+469, 2023-01-20, 08:40, Los Angeles, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+470, 2023-01-19, 11:15, Toronto, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+471, 2023-01-18, 13:40, Sydney, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+472, 2023-01-17, 08:55, Paris, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group BB
+473, 2023-01-16, 10:20, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group SSS
+474, 2023-01-15, 12:45, Tokyo, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+475, 2023-01-14, 14:50, New York, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group ZZZ
+476, 2023-01-13, 08:45, Beijing, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+477, 2023-01-12, 11:20, Los Angeles, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+478, 2023-01-11, 13:45, Toronto, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group TTT
+479, 2023-01-10, 08:50, Sydney, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+480, 2023-01-09, 10:25, Paris, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group BC
+481, 2023-01-08, 14:50, London, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group UUU
+482, 2023-01-07, 08:45, Tokyo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+483, 2023-01-06, 11:20, New York, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+484, 2023-01-05, 14:55, Beijing, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+485, 2023-01-04, 08:40, Mumbai, Email phishing scam targeting university students, Fraud, University Students, Phishing Gang
+486, 2023-01-03, 11:15, Sao Paulo, Insider trading investigation at a financial institution, Financial Fraud, Financial Institution, Insider Employee
+487, 2023-01-02, 13:40, Moscow, Phishing attack on a technology company's employees, Fraud, Technology Company, Phishing Gang
+488, 2023-01-01, 08:55, Berlin, Business email compromise (BEC) scam targeting executives, Fraud, Executives, Business Email Compromise Group BD
+489, 2022-12-31, 10:20, Los Angeles, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group VVV
+490, 2022-12-30, 12:45, Toronto, Insider trading investigation at a financial services firm, Financial Fraud, Financial Services Firm, Insider Employee
+491, 2022-12-29, 14:50, Sydney, Phishing attack on a healthcare organization's employees, Fraud, Healthcare Organization, Hacker Group AAA
+492, 2022-12-28, 08:45, Paris, Ransomware attack on a manufacturing company's systems, Extortion, Manufacturing Company, Ransomware Gang
+493, 2022-12-27, 11:20, London, Identity theft through compromised online shopping accounts, Identity Theft, Online Shoppers, Fraudster
+494, 2022-12-26, 13:45, Tokyo, Social media account hacking for spreading misinformation, Fraud, Social Media Users, Cybercriminal Group RRR
+495, 2022-12-25, 08:50, New York, Unauthorized access to corporate network, Unauthorized Access, Corporation, Insider Employee
+496, 2022-12-24, 10:25, Beijing, Email account compromise leading to wire transfer fraud, Fraud, Individuals, Business Email Compromise Group BE
+497, 2022-12-23, 14:50, Mumbai, Social media account hijacking for spreading propaganda, Fraud, Social Media Users, Cybercriminal Group WWW
+498, 2022-12-22, 08:45, Sao Paulo, Insider trading investigation at an investment firm, Financial Fraud, Investment Firm, Insider Employee
+499, 2022-12-21, 11:20, Moscow, Phishing scam targeting banking customers, Fraud, Banking Customers, Phishing Gang
+500, 2022-12-20, 13:40, Berlin, Unauthorized access to confidential legal files, Unauthorized Access, Law Firm, Insider Employee
+
+
+
+
+
+
+
+
+
+
+
+
+
